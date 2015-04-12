@@ -449,6 +449,12 @@ $CMP IDT71V65903S
 D 165 pins BGA 3.3V high-speed 9 Megabit synchronous SRAMs 512K x 18 (or  256K x 36)
 $ENDCMP
 #
+$CMP M25PE16
+D 16MB 3V Serial Flash Memory
+K spi flash
+F http://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25pe_m45pe/m25pe16.pdf
+$ENDCMP
+#
 $CMP M29W004
 D Flash EEProm 512Ko (TSOP 40 pack.) 3,3V
 K EEPROM FLASH 512KO
