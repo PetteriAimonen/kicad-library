@@ -306,4 +306,10 @@ K ARM 32bit CortexM4F M4F STM Microcontroller FPU
 F http://www.st.com/internet/mcu/product/252139.jsp
 $ENDCMP
 #
+$CMP STM32L151C8
+D STM32L151C8, 32-bit ARM Cortex-M3 Microcontroller, 32MHz, 64KB Flash, 10KB RAM, RTC, USB, LQFP48
+K STM32 ARM Cortex-M3 MCU
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00277537.pdf
+$ENDCMP
+#
 #End Doc Library
